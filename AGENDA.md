@@ -2,7 +2,7 @@
 
 ## Day 1 (Intro to Python Programming)
 - Info and logistics
-- Python resources
+- Python resources - python.org(dl resource), docs.python.org, devdocs.io
 - 5 min break
 - Text and printing
 - Collections (Lists)
